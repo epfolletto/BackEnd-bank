@@ -2,6 +2,7 @@
 Sistema bancário
 
 # `Descrição`
+[Projeto desenvolvido na semana 16 do curso Labenu]. </br>
 O Projeto Sistema bancário-backend foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste na elaboração de uma API que retorna dados conforme as requisições enviadas. Trata-se de uma ferramenta básica que simula o funcionamento de um banco.
 
 A documentação da API pode ser acessada [aqui](https://documenter.getpostman.com/view/21552787/2s7YfU5rLx).
